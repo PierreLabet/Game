@@ -6,8 +6,8 @@
 // @author       Alexis.Sair
 // @match        https://wspharma.odoo.com/*
 // @grant        GM_xmlhttpRequest
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/PierreLabet/Game/blob/main/Odoo%20Gamification%20System-0.2.6.user.js
+// @downloadURL  https://github.com/PierreLabet/Game/blob/main/Odoo%20Gamification%20System-0.2.6.user.js
 // ==/UserScript==
 
 (function() {
